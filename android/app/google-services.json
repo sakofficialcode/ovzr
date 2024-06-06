@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "861562404632",
+    "project_id": "ovzr-6ef55",
+    "storage_bucket": "ovzr-6ef55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861562404632:android:42eb0f60bfb64c2af0e86d",
+        "android_client_info": {
+          "package_name": "com.example.ovzr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1wsbOHenFnti0mT8vP8YV6aFWfd7iyJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
